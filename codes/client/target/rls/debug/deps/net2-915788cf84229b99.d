@@ -1,0 +1,12 @@
+d:\mine\作业\大创\GKD\codes\client\target\rls\debug\deps\net2-915788cf84229b99.rmeta: C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\lib.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\tcp.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\udp.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\socket.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\ext.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\utils.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\sys\windows\mod.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\sys\windows\impls.rs
+
+d:\mine\作业\大创\GKD\codes\client\target\rls\debug\deps\net2-915788cf84229b99.d: C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\lib.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\tcp.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\udp.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\socket.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\ext.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\utils.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\sys\windows\mod.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\sys\windows\impls.rs
+
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\lib.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\tcp.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\udp.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\socket.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\ext.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\utils.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\sys\windows\mod.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\net2-0.2.36\src\sys\windows\impls.rs:

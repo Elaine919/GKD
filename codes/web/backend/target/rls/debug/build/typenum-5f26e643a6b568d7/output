@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=d:\mine\作业\大创\GKD\codes\web工程\backend\target\rls\debug\build\typenum-5f26e643a6b568d7\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=d:\mine\作业\大创\GKD\codes\web工程\backend\target\rls\debug\build\typenum-5f26e643a6b568d7\out\op.rs

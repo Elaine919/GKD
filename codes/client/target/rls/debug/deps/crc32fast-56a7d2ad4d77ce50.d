@@ -1,0 +1,10 @@
+d:\mine\作业\大创\GKD\codes\client\target\rls\debug\deps\crc32fast-56a7d2ad4d77ce50.rmeta: C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\lib.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\baseline.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\combine.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\specialized\mod.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\table.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\specialized\pclmulqdq.rs
+
+d:\mine\作业\大创\GKD\codes\client\target\rls\debug\deps\crc32fast-56a7d2ad4d77ce50.d: C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\lib.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\baseline.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\combine.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\specialized\mod.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\table.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\specialized\pclmulqdq.rs
+
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\lib.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\baseline.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\combine.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\specialized\mod.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\table.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\crc32fast-1.2.1\src\specialized\pclmulqdq.rs:

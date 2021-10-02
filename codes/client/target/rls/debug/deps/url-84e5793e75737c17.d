@@ -1,0 +1,13 @@
+d:\mine\作业\大创\GKD\codes\client\target\rls\debug\deps\url-84e5793e75737c17.rmeta: C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\lib.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\encoding.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\host.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\origin.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\path_segments.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\parser.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\slicing.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\form_urlencoded.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\quirks.rs
+
+d:\mine\作业\大创\GKD\codes\client\target\rls\debug\deps\url-84e5793e75737c17.d: C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\lib.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\encoding.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\host.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\origin.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\path_segments.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\parser.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\slicing.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\form_urlencoded.rs C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\quirks.rs
+
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\lib.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\encoding.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\host.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\origin.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\path_segments.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\parser.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\slicing.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\form_urlencoded.rs:
+C:\Users\sym\.cargo\registry\src\mirrors.ustc.edu.cn-61ef6e0cd06fb9b8\url-1.7.2\src\quirks.rs:
